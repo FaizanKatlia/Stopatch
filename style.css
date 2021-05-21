@@ -1,0 +1,26 @@
+#pk{
+     background-color: black;
+     display: inline;
+    text-align: center; 
+    height : 100px;
+    width: 100px; 
+    }
+h1{
+    display: inline;
+    background-color: black;
+    width: 100px;
+    color : whitesmoke;
+    font-size: 50pt;
+    }
+#msec{
+    font-size: 20px;
+}
+button{
+    height : 50px;
+    width  : 70px;
+    background-color: black;
+    color: blanchedalmond;
+}
+#ok{
+    padding-top: 10px;
+}
